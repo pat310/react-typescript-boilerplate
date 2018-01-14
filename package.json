@@ -1,7 +1,7 @@
 {
-  "name": "trasb.org",
+  "name": "react-typescript-boilerplate",
   "version": "1.0.0",
-  "description": "trasb.org",
+  "description": "react-typescript-boilerplate",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pat310/trasb.org.git"
+    "url": "git+https://github.com/pat310/react-typescript-boilerplate.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pat310/trasb.org/issues"
+    "url": "https://github.com/pat310/react-typescript-boilerplate/issues"
   },
-  "homepage": "https://github.com/pat310/trasb.org#readme",
+  "homepage": "https://github.com/pat310/react-typescript-boilerplate#readme",
   "devDependencies": {
     "awesome-typescript-loader": "^3.2.3",
     "file-loader": "^1.1.5",
